@@ -9,4 +9,4 @@ You can also simply copy the HTML file and open it in your browser.
 The Friends in the title refers to [posterdown](https://github.com/brentthorne/posterdown/wiki), [bookdown](bookdown.org/) and [blogdown](https://github.com/rstudio/blogdown).
 I have also included some simple example files of each.
 
-For any questions, feel free to open an issue in this repository or contact me on twitter @adfi.
+For any questions, feel free to open an issue in this repository or contact me on twitter @tapundemek.
